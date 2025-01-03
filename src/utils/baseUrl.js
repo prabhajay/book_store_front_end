@@ -1,4 +1,4 @@
 const getBaseUrl = () => {
-  return "https://book-store-backend-eight-mu.vercel.app";
+  return "https://book-store-back-end-lemon.vercel.app";
 };
 export default getBaseUrl;
